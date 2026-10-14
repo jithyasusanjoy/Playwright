@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","16493","@web client app with special locators","","2026-10-12","passed","2026-10-12","","Clientappspecial.spec.js","",""
+"","16545","@web client app to automate shopping cart application","","2026-10-12","passed","2026-10-12","","Clientapp.spec.js","",""
